@@ -16,4 +16,3 @@ Bienvenue dans **Test Project**, un projet conçu pour démontrer et valider des
 ## 🛠️ Installation et Configuration
 
 1. **Clonez le dépôt** :
-   ```bash
